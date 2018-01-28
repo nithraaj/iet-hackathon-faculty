@@ -1,0 +1,72 @@
+{
+  "project_info": {
+    "project_number": "828106401379",
+    "firebase_url": "https://iethack-fef9d.firebaseio.com",
+    "project_id": "iethack-fef9d"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828106401379:android:340ea55b3fd722b4",
+        "android_client_info": {
+          "package_name": "com.nithraaj.iethackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828106401379-j60iead7so1ars1hqh0fkp9691l9s36j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI2SqN0VZFXFEOFLpCVfHhnUgu84uDDvc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828106401379:android:60bc6f99333c3091",
+        "android_client_info": {
+          "package_name": "com.nithraaj.iethackathonfaculty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828106401379-j60iead7so1ars1hqh0fkp9691l9s36j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI2SqN0VZFXFEOFLpCVfHhnUgu84uDDvc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
